@@ -304,4 +304,45 @@ margin-top: auto;
   margin-bottom: 6px;
   color: #252432; 
 }
+.footer-section {
+  background-color:#ffffff;
+  color: white;
+  text-align: center;
+  padding: 80px 40px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.footer-logo {
+  font-size: 100px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  color: #4E47FF;
+}
+
+.footer-description {
+  font-size: 16px;
+  color: #8987A1;
+  max-width: 700px;
+  margin: 0 auto 40px;
+  line-height: 1.6;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  font-size: 15px;
+}
+
+.footer-nav a {
+  color: #8987A1;
+  text-decoration: none;
+ 
+}
+
+.footer-nav a:hover {
+  color: #00E0FF;
+}
+
 
